@@ -1,4 +1,8 @@
-## Knoxmakers 3d printer info
+# Knoxmakers 3D Printing Info
+## What is this repo?
+* This repo was created as a centralized place for all things 3D printer related to Knoxmakers
 
-* This repository is a centralized place for information regarding the Knoxmakers owned 3D printer as well as the Knoxmakers 3D printer build off.
-* This is a work in progress...
+## Repo Structure
+
+* KM_MendelMax is a directory related to the Knoxmakers 3D printer build off
+* KM_Prusa is a directory related to the Knoxmakers owned Reprap Prusa Mendel Printer
