@@ -9,29 +9,31 @@
 
 ### Extruder
 | Part Name | Thingiverse Number | Notes |
-| ------------------ |:--------------------------:|------------------|
+| ------------------ |:-----------------------------------------------:|-------------------------------------------------------------|
 | Extruder_Base      |
 | Extruder_Idler_Arm | [28241](http://www.thingiverse.com/thing:28241) | KM_Mendelmax idler arm was slightly modified from this part |
 
 ### Frame
 | Part Name         | Thingiverse Number                              |
 | ----------------- |:-----------------------------------------------:|
-| Foot              | Not a Thingiverse Part                          |
+| Foot Mount        | Not a Thingiverse Part                          |
+| Foot              | Not a Thingiverse Part                          | Printable foot that uses 5/16" hex bolt.  This will work with the foot mount. |
 | Lower_Vertex_Side | [33431](http://www.thingiverse.com/thing:33431) |
 | Lower_Vertex      | [33431](http://www.thingiverse.com/thing:33431) |
 | Top_Vertex        | [20355](http://www.thingiverse.com/thing:20355) |
 
 ### Misc
-| Part Name            | Thingiverse Number |
-| -------------------- |:------------------:|
+| Part Name            | Thingiverse Number                              |
+| -------------------- |:-----------------------------------------------:|
 | Cable_Clip_Large     | [59745](http://www.thingiverse.com/thing:59745) |
 | Cable_Clip_Medium    | [59745](http://www.thingiverse.com/thing:59745) |
 | Cable_Clip_Small     | [59745](http://www.thingiverse.com/thing:59745) |
 | Cylindrical_Spacer   |
-| LCD_Panel_Plate      | Not a Thingiverse Part
+| LCD_Panel_Plate      | Not a Thingiverse Part                          |
 | Limit_Switch_Holder  | [28728](http://www.thingiverse.com/thing:28728) |
 | M3_Rosette           | [6599](http://www.thingiverse.com/thing:6599)   |
 | Skeletal_Spool_Mount | [26472](http://www.thingiverse.com/thing:26472) |
+| LCD_12864_Plate      | Not a Thingiverse Part                          | This mount plate is used for a 128x64 graphical lcd screen |
 
 ### X-Axis
 | Part Name             | Thingiverse Number                              |
