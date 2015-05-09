@@ -4,5 +4,8 @@
 
 ## Repo Structure
 
-* KM_MendelMax is a directory related to the Knoxmakers 3D printer build off
-* KM_Prusa is a directory related to the Knoxmakers owned Reprap Prusa Mendel Printer
+* Slic3r_config is a directory that contains the latest configuration files for Slic3r.  These config files are current for Slic3r v1.26
+* firmware is a directory that contains the lastest firmware installed on Bumblebee.  Currently based on Marlin v 1.0.1
+* parts is a directory that contains the parts that were printed to build Bumblebee in its current configuration.
+* Note: Old files related to the previous RepRap Prusa have been deleted.
+
